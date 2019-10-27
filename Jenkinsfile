@@ -20,5 +20,6 @@ node{
     stage("Delivery")
     {
         echo "Delevering the code"
+        echo "hi"
     }
 }
